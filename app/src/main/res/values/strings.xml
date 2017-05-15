@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FileProvider Kotlin</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="resulted_image">Resulted Image</string>
+</resources>
